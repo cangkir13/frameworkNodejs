@@ -1,0 +1,14 @@
+dotenv
+express
+body-parser
+cors
+morgan
+axios
+jsonwebtoken
+mysql2
+helmet
+moment
+
+
+nodemon --dev
+mocha --dev
